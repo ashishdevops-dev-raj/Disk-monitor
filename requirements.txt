@@ -1,0 +1,1 @@
+# No extra python packages needed for email_alert.py (uses built-in smtplib)
